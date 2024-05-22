@@ -24,7 +24,7 @@
  🎧 &emsp; When I'm not coding, you'll find me tuning in to podcasts and enjoying stand-up comedy specials.<br/>
  📧 &emsp; I'm on the lookout for new and challenging opportunities in web development. Got any leads? 😉.<br/>
  🚀 &emsp; Currently, I'm delving into new languages like Go, Java, and Python.<br/>
- 📚 &emsp; I'm a forever student, constantly honing my skills with online courses on Udemy.
+ 📚 &emsp; I'm a forever student, constantly honing my skills with online courses on Udemy.</br>
  💬 &emsp; Reach me anytime: cecildevinaa@gmail.com</br>
 </p>
  
